@@ -20,13 +20,13 @@ p {
   line-height: 22px;
   margin-bottom: 22px;
   margin-top: 0px;
-  font-size: 13px;
+  font-size: 15px;
 }
 
 a {
   color: #000;
   text-decoration: none;
-  border-bottom: 3px solid rgba(208, 70, 70, 1);
+  border-bottom: 3px solid rgb(0, 98, 92);
 }
 
 a:hover {
