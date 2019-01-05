@@ -43,7 +43,7 @@ a:hover {
 }
 
 a.dark-link {
-  color: #fff;
+  color: rgb(0, 98, 92);
 }
 
 a.dark-link:hover {
@@ -58,13 +58,13 @@ a.dark-link:hover {
 }
 
 .header-link {
-  color: #000;
+  color: rgb(0, 98, 92);
   text-decoration: none;
   border-bottom: none;
 }
 
 .header-link.dark {
-  color: #fff;
+  color: rgb(0, 98, 92);
 }
 
 .header-link:hover {
