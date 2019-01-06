@@ -26,7 +26,7 @@ p {
 a {
   color: #000;
   text-decoration: none;
-  border-bottom: 2px solid rgb(0, 98, 92);
+  border-bottom: 3px solid rgb(0, 98, 92);
 }
 
 a:hover {
@@ -38,7 +38,7 @@ a:hover {
 }
 
 .dark-body {
-  background-color: rgb(36, 41, 46);
+  background-color: rgb(46, 64, 84);
   color: #fff;
 }
 
@@ -47,7 +47,7 @@ a.dark-link {
 }
 
 a.dark-link:hover {
-  color: #fff;
+  color: rgb(46, 64, 84);
 }
 
 .main-content {
@@ -64,23 +64,23 @@ a.dark-link:hover {
 }
 
 .header-link.dark {
-  color: rgb(0, 98, 92);
+  color: #fff;
 }
 
 .header-link:hover {
   background-color: #fff;
-  color: rgb(0, 98, 92);
+  color: #000;
   border: none;
   padding: 0;
   margin: 0;
 }
 
 .header-link.dark:hover {
-  color: rgb(0, 98, 92);
+  color: rgb(46, 64, 84);
 }
 
 .bold {
-  font-weight: 700;
+  font-weight: 900;
 }
 
 .header {
