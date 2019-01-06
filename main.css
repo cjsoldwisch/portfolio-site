@@ -128,3 +128,12 @@ footer p {
     font-size: inherit;
   }
 }
+
+ul
+{
+list-style-type: none;
+padding: 10;
+margin: 0;
+text-align: left;
+width: 10em;
+}
